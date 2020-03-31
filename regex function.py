@@ -23,9 +23,6 @@ def find_regex(word_pattern,path_to_folder):
                 print('No match found')
     return
 
-
-
-
 os.mkdir('path')
 os.chdir('path')
 for i in range(1,10):
